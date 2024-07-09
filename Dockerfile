@@ -1,6 +1,5 @@
 FROM ssangyongsports/chdjjdjdkklslaaa:develop-ce
 
-RUN apk add --no-cache multirun postgresql-client
 
 COPY --chmod=755 start.sh ./
 
