@@ -1,5 +1,5 @@
 # https://hub.docker.com/r/chatwoot/chatwoot/tags
-FROM ssangyongsports/chdjjdjdkklslaaa:develop-ce
+FROM chatwoot/chatwoot:develop-ce
 
 # 添加必要的包
 RUN apk add --no-cache multirun postgresql-client gcompat
