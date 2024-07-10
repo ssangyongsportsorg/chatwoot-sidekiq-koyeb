@@ -1,5 +1,5 @@
 # https://hub.docker.com/r/chatwoot/chatwoot/tags
-FROM ssangyongsports/chdjjdjdkklslaaa:latest
+FROM ssangyongsports/chdjjdjdkklslaaa:develop-ce
 
 RUN apk add --no-cache multirun postgresql-client
 
